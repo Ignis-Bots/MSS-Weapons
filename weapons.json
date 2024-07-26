@@ -5,61 +5,61 @@
   {
     "weaponID": 1,
     "weaponName": "BP_M38_DMR_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "M38 DMR",
     "weaponArchetype": ""
   },
   {
     "weaponID": 2,
     "weaponName": "BP_L110A2_SUSAT",
-    "weaponAltName": "",
+    "weaponAltName": "L110A2 Minimi + SUSAT",
     "weaponArchetype": ""
   },
   {
     "weaponID": 3,
     "weaponName": "BP_G3A3",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3",
     "weaponArchetype": ""
   },
   {
     "weaponID": 4,
     "weaponName": "BP_G3A4_Optic_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "G3A4 + ZF1 + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 5,
     "weaponName": "BP_AK12_Reddot",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 + 1P87",
     "weaponArchetype": ""
   },
   {
     "weaponID": 6,
     "weaponName": "BP_M16A4_M150_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + M150 + Vertical Grip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 7,
     "weaponName": "BP_G3A3_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3 + ZF1",
     "weaponArchetype": ""
   },
   {
     "weaponID": 8,
     "weaponName": "BP_M27_IAR_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "M27 IAR + SDO",
     "weaponArchetype": ""
   },
   {
     "weaponID": 9,
     "weaponName": "BP_M4_Carryhandle",
-    "weaponAltName": "",
+    "weaponAltName": "M4",
     "weaponArchetype": ""
   },
   {
     "weaponID": 10,
     "weaponName": "BP_M16A4_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + Irons",
     "weaponArchetype": ""
   },
   {
@@ -71,19 +71,19 @@
   {
     "weaponID": 12,
     "weaponName": "BP_AK12_Foregrip_Reddot",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 + 1P87 + Foregrip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 13,
     "weaponName": "BP_AKS74U_2mags",
-    "weaponAltName": "",
+    "weaponAltName": "AKS-74U",
     "weaponArchetype": ""
   },
   {
     "weaponID": 14,
     "weaponName": "BP_AK74M_1P78_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M + 1P78 + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -95,13 +95,13 @@
   {
     "weaponID": 16,
     "weaponName": "BP_AK74M_1P78",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M + 1P78",
     "weaponArchetype": ""
   },
   {
     "weaponID": 17,
     "weaponName": "BP_L85A2_ElcanLDS_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + LDS + Foregrip Bipod",
     "weaponArchetype": ""
   },
   {
@@ -119,25 +119,25 @@
   {
     "weaponID": 20,
     "weaponName": "BP_G3SG1_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "G3SG/1",
     "weaponArchetype": ""
   },
   {
     "weaponID": 21,
     "weaponName": "BP_M240_M145",
-    "weaponAltName": "",
+    "weaponAltName": "M240B + M145",
     "weaponArchetype": ""
   },
   {
     "weaponID": 22,
     "weaponName": "BP_G3A3_ZPoint",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3 + Z-Point",
     "weaponArchetype": ""
   },
   {
     "weaponID": 23,
     "weaponName": "BP_L85A2_SUSAT",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + SUSAT",
     "weaponArchetype": ""
   },
   {
@@ -149,7 +149,7 @@
   {
     "weaponID": 25,
     "weaponName": "BP_L85A2AG36_ElcanLDS_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 L123A2 + LDS",
     "weaponArchetype": ""
   },
   {
@@ -161,13 +161,13 @@
   {
     "weaponID": 27,
     "weaponName": "BP_L85A2_ACOG",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + ACOG",
     "weaponArchetype": ""
   },
   {
     "weaponID": 28,
     "weaponName": "BP_M4_M68",
-    "weaponAltName": "",
+    "weaponAltName": "M4 + M68",
     "weaponArchetype": ""
   },
   {
@@ -179,19 +179,19 @@
   {
     "weaponID": 30,
     "weaponName": "BP_AK74M",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M",
     "weaponArchetype": ""
   },
   {
     "weaponID": 31,
     "weaponName": "BP_M249_Pip_M145",
-    "weaponAltName": "",
+    "weaponAltName": "M249 PIP + M145",
     "weaponArchetype": ""
   },
   {
     "weaponID": 32,
     "weaponName": "BP_M4_M150",
-    "weaponAltName": "",
+    "weaponAltName": "M4 + M150",
     "weaponArchetype": ""
   },
   {
@@ -209,7 +209,7 @@
   {
     "weaponID": 35,
     "weaponName": "BP_L85A2_ElcanLDS",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + LDS",
     "weaponArchetype": ""
   },
   {
@@ -221,31 +221,31 @@
   {
     "weaponID": 37,
     "weaponName": "BP_AK12_Foregrip_1P78Picatinny",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 + 1P78 + Foregrip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 38,
     "weaponName": "BP_M16A4M203_Rifle_M150",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 M203 + M150",
     "weaponArchetype": ""
   },
   {
     "weaponID": 39,
     "weaponName": "BP_AK12_1P78Picatinny",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 + 1P78",
     "weaponArchetype": ""
   },
   {
     "weaponID": 40,
     "weaponName": "BP_M110_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "M110 SASS",
     "weaponArchetype": ""
   },
   {
     "weaponID": 41,
     "weaponName": "BP_M249_Pip_M68",
-    "weaponAltName": "",
+    "weaponAltName": "M249 PIP + M68",
     "weaponArchetype": ""
   },
   {
@@ -299,7 +299,7 @@
   {
     "weaponID": 50,
     "weaponName": "BP_PMMD63",
-    "weaponAltName": "",
+    "weaponAltName": "PM md. 63",
     "weaponArchetype": ""
   },
   {
@@ -329,7 +329,7 @@
   {
     "weaponID": 55,
     "weaponName": "BP_M16A4_M150",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + M150",
     "weaponArchetype": ""
   },
   {
@@ -341,7 +341,7 @@
   {
     "weaponID": 57,
     "weaponName": "BP_G3A3_Drum_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3 + ZF1 + Drum Mag",
     "weaponArchetype": ""
   },
   {
@@ -353,19 +353,19 @@
   {
     "weaponID": 59,
     "weaponName": "BP_L7A2",
-    "weaponAltName": "",
+    "weaponAltName": "L7A2 GPMG",
     "weaponArchetype": ""
   },
   {
     "weaponID": 60,
     "weaponName": "BP_M4M203_Rifle_M150",
-    "weaponAltName": "",
+    "weaponAltName": "M4 M203 + M150",
     "weaponArchetype": ""
   },
   {
     "weaponID": 61,
     "weaponName": "BP_AKMS",
-    "weaponAltName": "",
+    "weaponAltName": "AKMS",
     "weaponArchetype": ""
   },
   {
@@ -377,7 +377,7 @@
   {
     "weaponID": 63,
     "weaponName": "BP_PMT76_A940",
-    "weaponAltName": "",
+    "weaponAltName": "PMT-76 + A940",
     "weaponArchetype": ""
   },
   {
@@ -407,13 +407,13 @@
   {
     "weaponID": 68,
     "weaponName": "BP_ASVAL_OKP-7",
-    "weaponAltName": "",
+    "weaponAltName": "AS-VAL + OKP-7",
     "weaponArchetype": ""
   },
   {
     "weaponID": 69,
     "weaponName": "BP_SVD_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "SVD",
     "weaponArchetype": ""
   },
   {
@@ -431,7 +431,7 @@
   {
     "weaponID": 72,
     "weaponName": "BP_AK12_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12",
     "weaponArchetype": ""
   },
   {
@@ -443,25 +443,25 @@
   {
     "weaponID": 74,
     "weaponName": "BP_AK74M_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M",
     "weaponArchetype": ""
   },
   {
     "weaponID": 75,
     "weaponName": "BP_AMD65",
-    "weaponAltName": "",
+    "weaponAltName": "AMD-65",
     "weaponArchetype": ""
   },
   {
     "weaponID": 76,
     "weaponName": "BP_SKS",
-    "weaponAltName": "",
+    "weaponAltName": "SKS",
     "weaponArchetype": ""
   },
   {
     "weaponID": 77,
     "weaponName": "BP_RPK74M_1P78",
-    "weaponAltName": "",
+    "weaponAltName": "RPK-74M + 1P78",
     "weaponArchetype": ""
   },
   {
@@ -479,25 +479,25 @@
   {
     "weaponID": 80,
     "weaponName": "BP_C7A2_C79A2",
-    "weaponAltName": "",
+    "weaponAltName": "C7A2 + C79A2",
     "weaponArchetype": ""
   },
   {
     "weaponID": 81,
     "weaponName": "BP_AKM_Drummag",
-    "weaponAltName": "",
+    "weaponAltName": "AKM + Drum Mag",
     "weaponArchetype": ""
   },
   {
     "weaponID": 82,
     "weaponName": "BP_M249_Pip_SDO",
-    "weaponAltName": "",
+    "weaponAltName": "M249 PIP + SDO",
     "weaponArchetype": ""
   },
   {
     "weaponID": 83,
     "weaponName": "BP_Mosin_M1891_Sniper",
-    "weaponAltName": "",
+    "weaponAltName": "Mosin Nagant M1891/30 + PU-1",
     "weaponArchetype": ""
   },
   {
@@ -521,19 +521,19 @@
   {
     "weaponID": 87,
     "weaponName": "BP_AKS74_1P29",
-    "weaponAltName": "",
+    "weaponAltName": "AKS-74 + 1P29",
     "weaponArchetype": ""
   },
   {
     "weaponID": 88,
     "weaponName": "BP_MPT76_A940",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + A940",
     "weaponArchetype": ""
   },
   {
     "weaponID": 89,
     "weaponName": "BP_G3KA4_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "G3KA4 + ZF1",
     "weaponArchetype": ""
   },
   {
@@ -557,7 +557,7 @@
   {
     "weaponID": 93,
     "weaponName": "BP_M4A1_M68_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "M4A1 Tracer + M68 + Vertical Grip",
     "weaponArchetype": ""
   },
   {
@@ -569,19 +569,19 @@
   {
     "weaponID": 95,
     "weaponName": "BP_AK12GP25_Rifle_Reddot",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 GP-25 + 1P87",
     "weaponArchetype": ""
   },
   {
     "weaponID": 96,
     "weaponName": "BP_SKS_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "SKS + PU",
     "weaponArchetype": ""
   },
   {
     "weaponID": 97,
     "weaponName": "BP_RPD",
-    "weaponAltName": "",
+    "weaponAltName": "RPD",
     "weaponArchetype": ""
   },
   {
@@ -599,19 +599,19 @@
   {
     "weaponID": 100,
     "weaponName": "BP_AK74M_1P63_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M + 1P63 + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 101,
     "weaponName": "BP_MPT76_Foregrip_A940_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + A940 + Angled Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 102,
     "weaponName": "BP_MPT76_Foregrip_A940_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + A940 + Angled Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -641,13 +641,13 @@
   {
     "weaponID": 107,
     "weaponName": "BP_MPT76_Foregrip_HNA_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + HNA + Angled Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 108,
     "weaponName": "BP_PKM",
-    "weaponAltName": "",
+    "weaponAltName": "PKM",
     "weaponArchetype": ""
   },
   {
@@ -659,7 +659,7 @@
   {
     "weaponID": 110,
     "weaponName": "BP_M17MHS",
-    "weaponAltName": "",
+    "weaponAltName": "M17 Modular Handgun System",
     "weaponArchetype": ""
   },
   {
@@ -677,7 +677,7 @@
   {
     "weaponID": 113,
     "weaponName": "BP_SVDM_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "SVDM",
     "weaponArchetype": ""
   },
   {
@@ -719,7 +719,7 @@
   {
     "weaponID": 120,
     "weaponName": "BP_M4_Carryhandle_2Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M4",
     "weaponArchetype": ""
   },
   {
@@ -743,25 +743,25 @@
   {
     "weaponID": 124,
     "weaponName": "BP_SV98M",
-    "weaponAltName": "",
+    "weaponAltName": "SV-98M",
     "weaponArchetype": ""
   },
   {
     "weaponID": 125,
     "weaponName": "BP_G3A4_ZPoint_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "G3A4 + Z-Point + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 126,
     "weaponName": "BP_L85A2_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + Irons + Foregrip Bipod + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 127,
     "weaponName": "BP_G3A3HK79_Optic_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3 HK79 + ZF1",
     "weaponArchetype": ""
   },
   {
@@ -773,19 +773,19 @@
   {
     "weaponID": 129,
     "weaponName": "BP_MG3_RedTracer",
-    "weaponAltName": "",
+    "weaponAltName": "MG3",
     "weaponArchetype": ""
   },
   {
     "weaponID": 130,
     "weaponName": "BP_M4A1_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "M4A1 + Vertical Grip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 131,
     "weaponName": "BP_KNT76_KESKIN",
-    "weaponAltName": "",
+    "weaponAltName": "KNT-76 + KESKIN",
     "weaponArchetype": ""
   },
   {
@@ -803,7 +803,7 @@
   {
     "weaponID": 134,
     "weaponName": "BP_L129A1_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "L129A1 Sharpshooter Rifle",
     "weaponArchetype": ""
   },
   {
@@ -815,13 +815,13 @@
   {
     "weaponID": 136,
     "weaponName": "BP_M16A4_M150_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + M150 + Vertical Grip + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 137,
     "weaponName": "BP_M4_M68_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M4 + M68",
     "weaponArchetype": ""
   },
   {
@@ -833,13 +833,13 @@
   {
     "weaponID": 139,
     "weaponName": "BP_L85A2_ElcanLDS_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + LDS",
     "weaponArchetype": ""
   },
   {
     "weaponID": 140,
     "weaponName": "BP_SOR9",
-    "weaponAltName": "",
+    "weaponAltName": "SOR-9",
     "weaponArchetype": ""
   },
   {
@@ -857,19 +857,19 @@
   {
     "weaponID": 143,
     "weaponName": "BP_G3KA4_ZPoint",
-    "weaponAltName": "",
+    "weaponAltName": "G3KA4 + Z-Point",
     "weaponArchetype": ""
   },
   {
     "weaponID": 144,
     "weaponName": "BP_C7A2_C79A2_M203A1",
-    "weaponAltName": "",
+    "weaponAltName": "C7A2 M203A1 + C79A2",
     "weaponArchetype": ""
   },
   {
     "weaponID": 145,
     "weaponName": "BP_AKM",
-    "weaponAltName": "",
+    "weaponAltName": "AKM",
     "weaponArchetype": ""
   },
   {
@@ -911,7 +911,7 @@
   {
     "weaponID": 152,
     "weaponName": "BP_C7A2_Eotech_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "C7A2 + ET552 + Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -923,7 +923,7 @@
   {
     "weaponID": 154,
     "weaponName": "BP_MPT76_6Mag",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76",
     "weaponArchetype": ""
   },
   {
@@ -953,7 +953,7 @@
   {
     "weaponID": 159,
     "weaponName": "BP_C9A2_C79A2",
-    "weaponAltName": "",
+    "weaponAltName": "C9A2 + C79A2",
     "weaponArchetype": ""
   },
   {
@@ -971,7 +971,7 @@
   {
     "weaponID": 162,
     "weaponName": "BP_M16A4_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + Irons + Vertical Grip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1013,7 +1013,7 @@
   {
     "weaponID": 169,
     "weaponName": "BP_G3KA4",
-    "weaponAltName": "",
+    "weaponAltName": "G3KA4",
     "weaponArchetype": ""
   },
   {
@@ -1037,19 +1037,19 @@
   {
     "weaponID": 173,
     "weaponName": "BP_AK12GP25_Rifle_1P78Picatinny",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 GP-25 + 1P78",
     "weaponArchetype": ""
   },
   {
     "weaponID": 174,
     "weaponName": "BP_AK74M_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M + Irons + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 175,
     "weaponName": "BP_MG3_Elcan",
-    "weaponAltName": "",
+    "weaponAltName": "MG3 + Elcan",
     "weaponArchetype": ""
   },
   {
@@ -1061,7 +1061,7 @@
   {
     "weaponID": 177,
     "weaponName": "BP_L86A2LSW_SUSAT",
-    "weaponAltName": "",
+    "weaponAltName": "L86A2 LSW + SUSAT",
     "weaponArchetype": ""
   },
   {
@@ -1073,13 +1073,13 @@
   {
     "weaponID": 179,
     "weaponName": "BP_M4A1_M150_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "M4A1 Tracer + M150 + Vertical Grip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 180,
     "weaponName": "BP_M16A4_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + Irons + Vertical Grip",
     "weaponArchetype": ""
   },
   {
@@ -1121,13 +1121,13 @@
   {
     "weaponID": 187,
     "weaponName": "BP_L131A1",
-    "weaponAltName": "",
+    "weaponAltName": "L131A1 General Service Pistol",
     "weaponArchetype": ""
   },
   {
     "weaponID": 188,
     "weaponName": "BP_G3A3_Drum",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3 + Drum Mag",
     "weaponArchetype": ""
   },
   {
@@ -1139,7 +1139,7 @@
   {
     "weaponID": 190,
     "weaponName": "BP_MPT76_HNA",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + HNA",
     "weaponArchetype": ""
   },
   {
@@ -1175,13 +1175,13 @@
   {
     "weaponID": 196,
     "weaponName": "BP_L110A2",
-    "weaponAltName": "",
+    "weaponAltName": "L110A2 Minimi",
     "weaponArchetype": ""
   },
   {
     "weaponID": 197,
     "weaponName": "BP_C8A3_C79A2_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3 + C79A2",
     "weaponArchetype": ""
   },
   {
@@ -1193,7 +1193,7 @@
   {
     "weaponID": 199,
     "weaponName": "BP_RPK74M",
-    "weaponAltName": "",
+    "weaponAltName": "RPK-74M",
     "weaponArchetype": ""
   },
   {
@@ -1205,7 +1205,7 @@
   {
     "weaponID": 201,
     "weaponName": "BP_AKMGP25_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "AKM GP-25",
     "weaponArchetype": ""
   },
   {
@@ -1235,7 +1235,7 @@
   {
     "weaponID": 206,
     "weaponName": "BP_C7A2_C79A2_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "C7A2 + C79A2 + Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -1253,13 +1253,13 @@
   {
     "weaponID": 209,
     "weaponName": "BP_PKP_1P78",
-    "weaponAltName": "",
+    "weaponAltName": "PKP Pecheneg - 1p78",
     "weaponArchetype": ""
   },
   {
     "weaponID": 210,
     "weaponName": "BP_PKP",
-    "weaponAltName": "",
+    "weaponAltName": "PKP Pecheneg",
     "weaponArchetype": ""
   },
   {
@@ -1271,13 +1271,13 @@
   {
     "weaponID": 212,
     "weaponName": "BP_M4_Carryhandle_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M4",
     "weaponArchetype": ""
   },
   {
     "weaponID": 213,
     "weaponName": "BP_C8A3_EoTech_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3 + ET552 + Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1319,7 +1319,7 @@
   {
     "weaponID": 220,
     "weaponName": "BP_L85A2_SUSAT_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + SUSAT + Foregrip Bipod + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1337,7 +1337,7 @@
   {
     "weaponID": 223,
     "weaponName": "BP_EF88_Ironsight_Frontgrip_1mag",
-    "weaponAltName": "",
+    "weaponAltName": "EF88",
     "weaponArchetype": ""
   },
   {
@@ -1367,31 +1367,31 @@
   {
     "weaponID": 228,
     "weaponName": "BP_Browning_P35",
-    "weaponAltName": "",
+    "weaponAltName": "Browning Hi-Power",
     "weaponArchetype": ""
   },
   {
     "weaponID": 229,
     "weaponName": "BP_MP443",
-    "weaponAltName": "",
+    "weaponAltName": "MP443 Grach",
     "weaponArchetype": ""
   },
   {
     "weaponID": 230,
     "weaponName": "BP_C14",
-    "weaponAltName": "",
+    "weaponAltName": "C14 Timberwolf",
     "weaponArchetype": ""
   },
   {
     "weaponID": 231,
     "weaponName": "BP_HK51_3mags",
-    "weaponAltName": "",
+    "weaponAltName": "HK 51",
     "weaponArchetype": ""
   },
   {
     "weaponID": 232,
     "weaponName": "BP_C8A3_C79A2",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3 + C79A2",
     "weaponArchetype": ""
   },
   {
@@ -1403,7 +1403,7 @@
   {
     "weaponID": 234,
     "weaponName": "BP_RPK",
-    "weaponAltName": "",
+    "weaponAltName": "RPK",
     "weaponArchetype": ""
   },
   {
@@ -1415,7 +1415,7 @@
   {
     "weaponID": 236,
     "weaponName": "BP_M240_MGO",
-    "weaponAltName": "",
+    "weaponAltName": "M240G + MGO",
     "weaponArchetype": ""
   },
   {
@@ -1475,13 +1475,13 @@
   {
     "weaponID": 246,
     "weaponName": "BP_L85A2_SUSAT_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + SUSAT",
     "weaponArchetype": ""
   },
   {
     "weaponID": 247,
     "weaponName": "BP_EF88_Specter_Frontgrip",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + Specter",
     "weaponArchetype": ""
   },
   {
@@ -1505,13 +1505,13 @@
   {
     "weaponID": 251,
     "weaponName": "BP_Mosin_M1891",
-    "weaponAltName": "",
+    "weaponAltName": "Mosin Nagant M1891/30",
     "weaponArchetype": ""
   },
   {
     "weaponID": 252,
     "weaponName": "BP_M4A1_M68",
-    "weaponAltName": "",
+    "weaponAltName": "M4A1 + M68",
     "weaponArchetype": ""
   },
   {
@@ -1529,7 +1529,7 @@
   {
     "weaponID": 255,
     "weaponName": "BP_Makarov",
-    "weaponAltName": "",
+    "weaponAltName": "PM Makarov",
     "weaponArchetype": ""
   },
   {
@@ -1553,19 +1553,19 @@
   {
     "weaponID": 259,
     "weaponName": "BP_M4_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M4",
     "weaponArchetype": ""
   },
   {
     "weaponID": 260,
     "weaponName": "BP_C9A2",
-    "weaponAltName": "",
+    "weaponAltName": "C9A2",
     "weaponArchetype": ""
   },
   {
     "weaponID": 261,
     "weaponName": "BP_EF88_Eotech_Frontgrip",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + ET552",
     "weaponArchetype": ""
   },
   {
@@ -1577,7 +1577,7 @@
   {
     "weaponID": 263,
     "weaponName": "BP_C7A2_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "C7A2",
     "weaponArchetype": ""
   },
   {
@@ -1589,7 +1589,7 @@
   {
     "weaponID": 265,
     "weaponName": "BP_EF88_Specter_Grippod_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + Specter + Grippod + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1607,7 +1607,7 @@
   {
     "weaponID": 268,
     "weaponName": "BP_HK417_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "HK417",
     "weaponArchetype": ""
   },
   {
@@ -1631,7 +1631,7 @@
   {
     "weaponID": 272,
     "weaponName": "BP_BrowningHP",
-    "weaponAltName": "",
+    "weaponAltName": "Hi-Power Pistol",
     "weaponArchetype": ""
   },
   {
@@ -1715,7 +1715,7 @@
   {
     "weaponID": 286,
     "weaponName": "BP_EF88_Specter_SL40",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 SL40 + Specter",
     "weaponArchetype": ""
   },
   {
@@ -1727,13 +1727,13 @@
   {
     "weaponID": 288,
     "weaponName": "BP_F89_Eotech",
-    "weaponAltName": "",
+    "weaponAltName": "F89 Minimi + ET552",
     "weaponArchetype": ""
   },
   {
     "weaponID": 289,
     "weaponName": "BP_G3A3_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3",
     "weaponArchetype": ""
   },
   {
@@ -1823,7 +1823,7 @@
   {
     "weaponID": 304,
     "weaponName": "BP_C7A2_C79A2_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "C7A2 + C79A2 + Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1835,13 +1835,13 @@
   {
     "weaponID": 306,
     "weaponName": "BP_M27_IAR",
-    "weaponAltName": "",
+    "weaponAltName": "M27 IAR + Irons + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 307,
     "weaponName": "BP_C8A3_C79A2_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3 + C79A2 + Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1877,13 +1877,13 @@
   {
     "weaponID": 313,
     "weaponName": "BP_M9",
-    "weaponAltName": "",
+    "weaponAltName": "M9A1",
     "weaponArchetype": ""
   },
   {
     "weaponID": 314,
     "weaponName": "BP_M16A4_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + Irons",
     "weaponArchetype": ""
   },
   {
@@ -1901,7 +1901,7 @@
   {
     "weaponID": 317,
     "weaponName": "BP_Maximi_Specter",
-    "weaponAltName": "",
+    "weaponAltName": "Maximi + Specter",
     "weaponArchetype": ""
   },
   {
@@ -1913,7 +1913,7 @@
   {
     "weaponID": 319,
     "weaponName": "BP_C8A3_Ironsights_Tracer_2mags",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3 + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -1925,7 +1925,7 @@
   {
     "weaponID": 321,
     "weaponName": "BP_BrowningHP_ADF",
-    "weaponAltName": "",
+    "weaponAltName": "Self-Loading Pistol Mk3",
     "weaponArchetype": ""
   },
   {
@@ -1967,13 +1967,13 @@
   {
     "weaponID": 328,
     "weaponName": "BP_EF88_Eotech_Grippod_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + ET552 + Grippod + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 329,
     "weaponName": "BP_TT33",
-    "weaponAltName": "",
+    "weaponAltName": "TT33 Tokarev",
     "weaponArchetype": ""
   },
   {
@@ -1997,25 +1997,25 @@
   {
     "weaponID": 333,
     "weaponName": "BP_M4_Carryhandle_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "M4 + Vertical Grip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 334,
     "weaponName": "BP_C6A1",
-    "weaponAltName": "",
+    "weaponAltName": "C6A1 FLEX",
     "weaponArchetype": ""
   },
   {
     "weaponID": 335,
     "weaponName": "BP_F89_Specter",
-    "weaponAltName": "",
+    "weaponAltName": "F89 Minimi + Specter",
     "weaponArchetype": ""
   },
   {
     "weaponID": 336,
     "weaponName": "BP_EF88C_Eotech_Frontgrip",
-    "weaponAltName": "",
+    "weaponAltName": "EF88C + ET552",
     "weaponArchetype": ""
   },
   {
@@ -2051,7 +2051,7 @@
   {
     "weaponID": 342,
     "weaponName": "BP_FNFAL",
-    "weaponAltName": "",
+    "weaponAltName": "FN FAL",
     "weaponArchetype": ""
   },
   {
@@ -2063,7 +2063,7 @@
   {
     "weaponID": 344,
     "weaponName": "BP_EF88_Eotech_Frontgrip_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + ET552",
     "weaponArchetype": ""
   },
   {
@@ -2087,7 +2087,7 @@
   {
     "weaponID": 348,
     "weaponName": "BP_AK74M_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M",
     "weaponArchetype": ""
   },
   {
@@ -2099,7 +2099,7 @@
   {
     "weaponID": 350,
     "weaponName": "BP_MPT76_1Mag",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76",
     "weaponArchetype": ""
   },
   {
@@ -2165,7 +2165,7 @@
   {
     "weaponID": 361,
     "weaponName": "BP_C8A3_Ironsights_2mags",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3",
     "weaponArchetype": ""
   },
   {
@@ -2195,19 +2195,19 @@
   {
     "weaponID": 366,
     "weaponName": "BP_EF88C_Specter_Frontgrip_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "EF88C + Specter",
     "weaponArchetype": ""
   },
   {
     "weaponID": 367,
     "weaponName": "BP_AK74M_1P63",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M + 1P63",
     "weaponArchetype": ""
   },
   {
     "weaponID": 368,
     "weaponName": "BP_EF88_Specter_Frontgrip_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + Specter",
     "weaponArchetype": ""
   },
   {
@@ -2219,7 +2219,7 @@
   {
     "weaponID": 370,
     "weaponName": "BP_MPT76",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76",
     "weaponArchetype": ""
   },
   {
@@ -2231,7 +2231,7 @@
   {
     "weaponID": 372,
     "weaponName": "BP_EF88C_Specter_Frontgrip_2mags_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "EF88C + Specter + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -2261,7 +2261,7 @@
   {
     "weaponID": 377,
     "weaponName": "BP_AK74MGP25_Rifle_1P78",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74M GP-25 + 1P78",
     "weaponArchetype": ""
   },
   {
@@ -2333,7 +2333,7 @@
   {
     "weaponID": 389,
     "weaponName": "BP_MPT76_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + Angled Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -2351,7 +2351,7 @@
   {
     "weaponID": 392,
     "weaponName": "BP_M16A2",
-    "weaponAltName": "",
+    "weaponAltName": "M16A2",
     "weaponArchetype": ""
   },
   {
@@ -2363,7 +2363,7 @@
   {
     "weaponID": 394,
     "weaponName": "BP_MPT76_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + Angled Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -2417,7 +2417,7 @@
   {
     "weaponID": 403,
     "weaponName": "BP_M4_Classic_M68",
-    "weaponAltName": "",
+    "weaponAltName": "M4 + M68",
     "weaponArchetype": ""
   },
   {
@@ -2519,7 +2519,7 @@
   {
     "weaponID": 420,
     "weaponName": "BP_M16A2_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "M16A2 + 3x20 Optic",
     "weaponArchetype": ""
   },
   {
@@ -2543,13 +2543,13 @@
   {
     "weaponID": 424,
     "weaponName": "BP_QBZ95-1_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1 + YMA600",
     "weaponArchetype": ""
   },
   {
     "weaponID": 425,
     "weaponName": "BP_QBU-88_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "QBU88",
     "weaponArchetype": ""
   },
   {
@@ -2597,7 +2597,7 @@
   {
     "weaponID": 433,
     "weaponName": "BP_FNFAL_GL_HEAT_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "FN FAL",
     "weaponArchetype": ""
   },
   {
@@ -2717,13 +2717,13 @@
   {
     "weaponID": 453,
     "weaponName": "BP_QBZ95-1_Holo",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1 + Holo Sight",
     "weaponArchetype": ""
   },
   {
     "weaponID": 454,
     "weaponName": "BP_QBZ95-1_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1",
     "weaponArchetype": ""
   },
   {
@@ -2747,7 +2747,7 @@
   {
     "weaponID": 458,
     "weaponName": "BP_AKS74U_45Rnd",
-    "weaponAltName": "",
+    "weaponAltName": "AKS-74U + Banana Mag",
     "weaponArchetype": ""
   },
   {
@@ -2795,13 +2795,13 @@
   {
     "weaponID": 466,
     "weaponName": "BP_QBZ95B-1_4Mag",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95B-1",
     "weaponArchetype": ""
   },
   {
     "weaponID": 467,
     "weaponName": "BP_QBZ95-1_Optic_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1 + YMA600",
     "weaponArchetype": ""
   },
   {
@@ -2825,7 +2825,7 @@
   {
     "weaponID": 471,
     "weaponName": "BP_M110_Optic_Black",
-    "weaponAltName": "",
+    "weaponAltName": "M110 SASS",
     "weaponArchetype": ""
   },
   {
@@ -2843,7 +2843,7 @@
   {
     "weaponID": 474,
     "weaponName": "BP_L85A2_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2",
     "weaponArchetype": ""
   },
   {
@@ -2873,7 +2873,7 @@
   {
     "weaponID": 479,
     "weaponName": "BP_QBZ95-1",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1",
     "weaponArchetype": ""
   },
   {
@@ -2891,13 +2891,13 @@
   {
     "weaponID": 482,
     "weaponName": "BP_QJB95-1_LSW_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "QJB95-1 LSW + YMA600",
     "weaponArchetype": ""
   },
   {
     "weaponID": 483,
     "weaponName": "BP_L22A2_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "L22A2 + Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -2909,7 +2909,7 @@
   {
     "weaponID": 485,
     "weaponName": "BP_L85A2_Classic_SUSAT",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2 + SUSAT",
     "weaponArchetype": ""
   },
   {
@@ -2963,7 +2963,7 @@
   {
     "weaponID": 494,
     "weaponName": "BP_QJY-88_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "QJY88 + YMA95",
     "weaponArchetype": ""
   },
   {
@@ -2999,7 +2999,7 @@
   {
     "weaponID": 500,
     "weaponName": "BP_M4_2Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M4",
     "weaponArchetype": ""
   },
   {
@@ -3017,7 +3017,7 @@
   {
     "weaponID": 503,
     "weaponName": "BP_QJB95-1_LSW",
-    "weaponAltName": "",
+    "weaponAltName": "QJB95-1 LSW",
     "weaponArchetype": ""
   },
   {
@@ -3041,7 +3041,7 @@
   {
     "weaponID": 507,
     "weaponName": "BP_QBZ95-1_Holo_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1 + Holo Sight",
     "weaponArchetype": ""
   },
   {
@@ -3077,19 +3077,19 @@
   {
     "weaponID": 513,
     "weaponName": "BP_AKS74U",
-    "weaponAltName": "",
+    "weaponAltName": "AKS-74U",
     "weaponArchetype": ""
   },
   {
     "weaponID": 514,
     "weaponName": "BP_QSZ-92_Pistol",
-    "weaponAltName": "",
+    "weaponAltName": "QSZ92",
     "weaponArchetype": ""
   },
   {
     "weaponID": 515,
     "weaponName": "BP_QSZ-92_Pistol",
-    "weaponAltName": "",
+    "weaponAltName": "QSZ92",
     "weaponArchetype": ""
   },
   {
@@ -3113,7 +3113,7 @@
   {
     "weaponID": 519,
     "weaponName": "BP_QBZ95-1_Holo_4Mags",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1 + Holo Sight",
     "weaponArchetype": ""
   },
   {
@@ -3299,7 +3299,7 @@
   {
     "weaponID": 550,
     "weaponName": "BP_SVDS_Optic",
-    "weaponAltName": "",
+    "weaponAltName": "SVDM",
     "weaponArchetype": ""
   },
   {
@@ -3329,7 +3329,7 @@
   {
     "weaponID": 555,
     "weaponName": "BP_AK12_2mags",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12",
     "weaponArchetype": ""
   },
   {
@@ -3347,7 +3347,7 @@
   {
     "weaponID": 558,
     "weaponName": "BP_M16A4",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 + Irons",
     "weaponArchetype": ""
   },
   {
@@ -3437,13 +3437,13 @@
   {
     "weaponID": 573,
     "weaponName": "BP_G3A4_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "G3A4 + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 574,
     "weaponName": "BP_C8A3_EoTech_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "C8A3 + ET552",
     "weaponArchetype": ""
   },
   {
@@ -3455,7 +3455,7 @@
   {
     "weaponID": 576,
     "weaponName": "BP_M4A1_Foregrip_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "M4A1 Tracer + Vertical Grip",
     "weaponArchetype": ""
   },
   {
@@ -3629,13 +3629,13 @@
   {
     "weaponID": 605,
     "weaponName": "BP_M249_Classic",
-    "weaponAltName": "",
+    "weaponAltName": "M249",
     "weaponArchetype": ""
   },
   {
     "weaponID": 606,
     "weaponName": "BP_AKM_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "AKM",
     "weaponArchetype": ""
   },
   {
@@ -3671,7 +3671,7 @@
   {
     "weaponID": 612,
     "weaponName": "BP_M16A2M203_Optic_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "M16A2 M203 + 3x20 Optic",
     "weaponArchetype": ""
   },
   {
@@ -3761,7 +3761,7 @@
   {
     "weaponID": 627,
     "weaponName": "BP_FNFAL_GL_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "FN FAL",
     "weaponArchetype": ""
   },
   {
@@ -3797,7 +3797,7 @@
   {
     "weaponID": 633,
     "weaponName": "BP_AK12GP25_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 GP-25",
     "weaponArchetype": ""
   },
   {
@@ -3917,13 +3917,13 @@
   {
     "weaponID": 653,
     "weaponName": "BP_AK12_1mags",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12",
     "weaponArchetype": ""
   },
   {
     "weaponID": 654,
     "weaponName": "BP_AK12_1mags",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12",
     "weaponArchetype": ""
   },
   {
@@ -4127,7 +4127,7 @@
   {
     "weaponID": 688,
     "weaponName": "BP_M4_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "M4",
     "weaponArchetype": ""
   },
   {
@@ -4397,7 +4397,7 @@
   {
     "weaponID": 733,
     "weaponName": "BP_QBZ95B-1_2Mag",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95B-1",
     "weaponArchetype": ""
   },
   {
@@ -4481,7 +4481,7 @@
   {
     "weaponID": 747,
     "weaponName": "BP_MPT76_Foregrip_HNA",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + HNA + Angled Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -4511,13 +4511,13 @@
   {
     "weaponID": 752,
     "weaponName": "BP_MPT76_Foregrip_A940",
-    "weaponAltName": "",
+    "weaponAltName": "MPT-76 + A940 + Angled Foregrip",
     "weaponArchetype": ""
   },
   {
     "weaponID": 753,
     "weaponName": "BP_PMT76",
-    "weaponAltName": "",
+    "weaponAltName": "PMT-76",
     "weaponArchetype": ""
   },
   {
@@ -4895,7 +4895,7 @@
   {
     "weaponID": 816,
     "weaponName": "BP_AK12_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12 + Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -4919,7 +4919,7 @@
   {
     "weaponID": 820,
     "weaponName": "BP_MP443_3Mags",
-    "weaponAltName": "",
+    "weaponAltName": "MP443 Grach",
     "weaponArchetype": ""
   },
   {
@@ -5117,7 +5117,7 @@
   {
     "weaponID": 853,
     "weaponName": "BP_Browning_P35_3Mags",
-    "weaponAltName": "",
+    "weaponAltName": "Browning Hi-Power",
     "weaponArchetype": ""
   },
   {
@@ -5351,7 +5351,7 @@
   {
     "weaponID": 892,
     "weaponName": "BP_Minimi_Classic",
-    "weaponAltName": "",
+    "weaponAltName": "Minimi",
     "weaponArchetype": ""
   },
   {
@@ -5363,7 +5363,7 @@
   {
     "weaponID": 894,
     "weaponName": "BP_M16A2M203_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "M16A2 M203",
     "weaponArchetype": ""
   },
   {
@@ -5483,7 +5483,7 @@
   {
     "weaponID": 914,
     "weaponName": "BP_QBZ95-1_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95-1",
     "weaponArchetype": ""
   },
   {
@@ -5567,7 +5567,7 @@
   {
     "weaponID": 928,
     "weaponName": "BP_M4_M150_Killflash",
-    "weaponAltName": "",
+    "weaponAltName": "M4 + M150",
     "weaponArchetype": ""
   },
   {
@@ -5579,7 +5579,7 @@
   {
     "weaponID": 930,
     "weaponName": "BP_PKM_1P29",
-    "weaponAltName": "",
+    "weaponAltName": "PKM- 1p29",
     "weaponArchetype": ""
   },
   {
@@ -5639,7 +5639,7 @@
   {
     "weaponID": 940,
     "weaponName": "BP_M4A1_M150_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "M4A1 + M150 + Vertical Grip",
     "weaponArchetype": ""
   },
   {
@@ -5669,7 +5669,7 @@
   {
     "weaponID": 945,
     "weaponName": "BP_M16A4M203_Rifle",
-    "weaponAltName": "",
+    "weaponAltName": "M16A4 M203",
     "weaponArchetype": ""
   },
   {
@@ -5687,7 +5687,7 @@
   {
     "weaponID": 948,
     "weaponName": "BP_TT33_2Mags",
-    "weaponAltName": "",
+    "weaponAltName": "TT33 Tokarev",
     "weaponArchetype": ""
   },
   {
@@ -5741,7 +5741,7 @@
   {
     "weaponID": 957,
     "weaponName": "BP_RPK74_1P78",
-    "weaponAltName": "",
+    "weaponAltName": "RPK-74 + 1P78",
     "weaponArchetype": ""
   },
   {
@@ -5753,13 +5753,13 @@
   {
     "weaponID": 959,
     "weaponName": "BP_AKS74_1P63",
-    "weaponAltName": "",
+    "weaponAltName": "AKS-74 + 1P63",
     "weaponArchetype": ""
   },
   {
     "weaponID": 960,
     "weaponName": "BP_AKS74U_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "AKS-74U",
     "weaponArchetype": ""
   },
   {
@@ -5819,7 +5819,7 @@
   {
     "weaponID": 970,
     "weaponName": "BP_M9_3Mags",
-    "weaponAltName": "",
+    "weaponAltName": "M9A1",
     "weaponArchetype": ""
   },
   {
@@ -5981,7 +5981,7 @@
   {
     "weaponID": 997,
     "weaponName": "BP_AK74_Recruit",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74",
     "weaponArchetype": ""
   },
   {
@@ -6053,7 +6053,7 @@
   {
     "weaponID": 1009,
     "weaponName": "BP_RPK74",
-    "weaponAltName": "",
+    "weaponAltName": "RPK-74",
     "weaponArchetype": ""
   },
   {
@@ -6119,7 +6119,7 @@
   {
     "weaponID": 1020,
     "weaponName": "BP_L131A1_3Mags",
-    "weaponAltName": "",
+    "weaponAltName": "L131A1 General Service Pistol",
     "weaponArchetype": ""
   },
   {
@@ -6491,7 +6491,7 @@
   {
     "weaponID": 1082,
     "weaponName": "BP_AK74GP25_Rifle_1P63",
-    "weaponAltName": "",
+    "weaponAltName": "AK-74 GP-25 + 1P63",
     "weaponArchetype": ""
   },
   {
@@ -6767,13 +6767,13 @@
   {
     "weaponID": 1128,
     "weaponName": "BP_QBZ95B-1",
-    "weaponAltName": "",
+    "weaponAltName": "QBZ95B-1",
     "weaponArchetype": ""
   },
   {
     "weaponID": 1129,
     "weaponName": "BP_AK12",
-    "weaponAltName": "",
+    "weaponAltName": "AK-12",
     "weaponArchetype": ""
   },
   {
@@ -6977,7 +6977,7 @@
   {
     "weaponID": 1163,
     "weaponName": "BP_G3A3_ZPoint_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "G3A3 + Z-Point + Foregrip",
     "weaponArchetype": ""
   },
   {
@@ -7403,7 +7403,7 @@
   {
     "weaponID": 1234,
     "weaponName": "BP_L22A2_SUSAT_Foregrip",
-    "weaponAltName": "",
+    "weaponAltName": "L22A2 + SUSAT + Foregrip + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -7667,7 +7667,7 @@
   {
     "weaponID": 1278,
     "weaponName": "BP_C6",
-    "weaponAltName": "",
+    "weaponAltName": "C6",
     "weaponArchetype": ""
   },
   {
@@ -7901,7 +7901,7 @@
   {
     "weaponID": 1317,
     "weaponName": "BP_F88",
-    "weaponAltName": "",
+    "weaponAltName": "F88",
     "weaponArchetype": ""
   },
   {
@@ -8717,7 +8717,7 @@
   {
     "weaponID": 1453,
     "weaponName": "BP_Makarov_2Mags",
-    "weaponAltName": "",
+    "weaponAltName": "PM Makarov",
     "weaponArchetype": ""
   },
   {
@@ -10241,7 +10241,7 @@
   {
     "weaponID": 1707,
     "weaponName": "BP_M4M203_Rifle_M68",
-    "weaponAltName": "",
+    "weaponAltName": "M4 M203 + M68",
     "weaponArchetype": ""
   },
   {
@@ -13931,19 +13931,19 @@
   {
     "weaponID": 2322,
     "weaponName": "BP_F88_4mags",
-    "weaponAltName": "",
+    "weaponAltName": "F88",
     "weaponArchetype": ""
   },
   {
     "weaponID": 2323,
     "weaponName": "BP_F88_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "F88 + Tracer",
     "weaponArchetype": ""
   },
   {
     "weaponID": 2324,
     "weaponName": "BP_Mag58",
-    "weaponAltName": "",
+    "weaponAltName": "MAG 58",
     "weaponArchetype": ""
   },
   {
@@ -14675,7 +14675,7 @@
   {
     "weaponID": 2446,
     "weaponName": "BP_EF88_Ironsight_Grippod_Tracer",
-    "weaponAltName": "",
+    "weaponAltName": "EF88 + Grippod + Tracer",
     "weaponArchetype": ""
   },
   {
@@ -14741,7 +14741,7 @@
   {
     "weaponID": 2457,
     "weaponName": "BP_EF88_Ironsight_Frontgrip",
-    "weaponAltName": "",
+    "weaponAltName": "EF88",
     "weaponArchetype": ""
   },
   {
@@ -21959,7 +21959,7 @@
   {
     "weaponID": 3660,
     "weaponName": "BP_M110_Optic_Suppressed",
-    "weaponAltName": "",
+    "weaponAltName": "M110 SASS + Suppressor",
     "weaponArchetype": ""
   },
   {
@@ -24203,7 +24203,7 @@
   {
     "weaponID": 4034,
     "weaponName": "BP_L85A2",
-    "weaponAltName": "",
+    "weaponAltName": "L85A2",
     "weaponArchetype": ""
   },
   {
@@ -27461,7 +27461,7 @@
   {
     "weaponID": 4577,
     "weaponName": "BP_ASVAL",
-    "weaponAltName": "",
+    "weaponAltName": "AS-VAL",
     "weaponArchetype": ""
   },
   {
